@@ -31,6 +31,8 @@ Follow these so the paste lands clean:
 - Do not put line breaks inside table cells. If a cell needs two ideas, separate with ` / `.
 - Do not use emojis unless the user asks.
 
+**How to copy it into Google Docs:** copy from the rendered markdown view (the chat pane or a markdown preview) — not from the raw `.md` file source and not from a terminal showing pipe characters. Rendered view → formatted paste (real table, headings, bold). Raw text → literal pipes and asterisks.
+
 ## Template
 
 Fill in every `[...]` placeholder. Leave `TBD` for anything the user did not provide. Output everything below as rendered markdown (not inside a code block):
