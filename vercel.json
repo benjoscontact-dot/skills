@@ -1,0 +1,7 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "cd creative-strategy-planner && npm install",
+  "buildCommand": "cd creative-strategy-planner && npm run build",
+  "outputDirectory": "creative-strategy-planner/dist"
+}
