@@ -1,0 +1,11 @@
+{
+  "events": [
+    { "week": 2, "count": 3, "products": ["Blackroll Kissen", "Schlafkurs", "Sommerdecke"] }
+  ],
+  "unavailable": [
+    { "creator": "Leona", "week": 3 }
+  ],
+  "capacity": [
+    { "creator": "Stefan", "week": 1, "max": 2 }
+  ]
+}
